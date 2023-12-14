@@ -1,0 +1,677 @@
+Last login: Thu Dec 14 22:19:46 on ttys037
+yangyangxue@yangyangxuedeMacBook-Air scripts % java -jar RunKeel.jar
+*** BEGIN OF EXPERIMENT Thu Dec 14 22:21:20 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/ZVRB-C.jar ./ZVRB-C/ecoli/config0s0.txt Executing Algorithm.
+Opening the file: ../datasets/ecoli/ecoli-10-1tra.dat.
+ >> processing: a1, a2, a3, a4, a5, a6, a7
+   > inputs attribute considered: a1.
+   > inputs attribute considered: a2.
+   > inputs attribute considered: a3.
+   > inputs attribute considered: a4.
+   > inputs attribute considered: a5.
+   > inputs attribute considered: a6.
+   > inputs attribute considered: a7.
+ >> processing:  class
+   > outputs attribute considered: class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 302
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of rules:22
+
+Number of features:2.8181818181818175
+
+Opening the file: ../datasets/ecoli/ecoli-10-1tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 302
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/ecoli/ecoli-10-1tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 34
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Training accuracy: 0.9271523178807947
+Test accuracy: 0.7941176470588235
+m_Optimizations = 2
+m_Seed = 1286082570
+m_Folds = 3
+m_MinNo = 2.0
+Number of fried rules:1.5
+Execute Time: 2339
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Dec 14 22:21:22 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Dec 14 22:21:22 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/ZVRB-C.jar ./ZVRB-C/ecoli/config1s0.txt Executing Algorithm.
+Opening the file: ../datasets/ecoli/ecoli-10-2tra.dat.
+ >> processing: a1, a2, a3, a4, a5, a6, a7
+   > inputs attribute considered: a1.
+   > inputs attribute considered: a2.
+   > inputs attribute considered: a3.
+   > inputs attribute considered: a4.
+   > inputs attribute considered: a5.
+   > inputs attribute considered: a6.
+   > inputs attribute considered: a7.
+ >> processing:  class
+   > outputs attribute considered: class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 302
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of rules:19
+
+Number of features:2.7894736842105265
+
+Opening the file: ../datasets/ecoli/ecoli-10-2tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 302
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/ecoli/ecoli-10-2tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 34
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Training accuracy: 0.9172185430463576
+Test accuracy: 0.8235294117647058
+m_Optimizations = 2
+m_Seed = 1286082570
+m_Folds = 3
+m_MinNo = 2.0
+Number of fried rules:1.6764705882352942
+Execute Time: 2328
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Dec 14 22:21:24 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Dec 14 22:21:24 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/ZVRB-C.jar ./ZVRB-C/ecoli/config2s0.txt Executing Algorithm.
+Opening the file: ../datasets/ecoli/ecoli-10-3tra.dat.
+ >> processing: a1, a2, a3, a4, a5, a6, a7
+   > inputs attribute considered: a1.
+   > inputs attribute considered: a2.
+   > inputs attribute considered: a3.
+   > inputs attribute considered: a4.
+   > inputs attribute considered: a5.
+   > inputs attribute considered: a6.
+   > inputs attribute considered: a7.
+ >> processing:  class
+   > outputs attribute considered: class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 302
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of rules:15
+
+Number of features:2.8666666666666667
+
+Opening the file: ../datasets/ecoli/ecoli-10-3tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 302
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/ecoli/ecoli-10-3tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 34
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Training accuracy: 0.9105960264900662
+Test accuracy: 0.8235294117647058
+m_Optimizations = 2
+m_Seed = 1286082570
+m_Folds = 3
+m_MinNo = 2.0
+Number of fried rules:1.8235294117647058
+Execute Time: 1863
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Dec 14 22:21:26 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Dec 14 22:21:26 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/ZVRB-C.jar ./ZVRB-C/ecoli/config3s0.txt Executing Algorithm.
+Opening the file: ../datasets/ecoli/ecoli-10-4tra.dat.
+ >> processing: a1, a2, a3, a4, a5, a6, a7
+   > inputs attribute considered: a1.
+   > inputs attribute considered: a2.
+   > inputs attribute considered: a3.
+   > inputs attribute considered: a4.
+   > inputs attribute considered: a5.
+   > inputs attribute considered: a6.
+   > inputs attribute considered: a7.
+ >> processing:  class
+   > outputs attribute considered: class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 302
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of rules:19
+
+Number of features:2.9473684210526314
+
+Opening the file: ../datasets/ecoli/ecoli-10-4tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 302
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/ecoli/ecoli-10-4tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 34
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Training accuracy: 0.9139072847682119
+Test accuracy: 0.7941176470588235
+m_Optimizations = 2
+m_Seed = 1286082570
+m_Folds = 3
+m_MinNo = 2.0
+Number of fried rules:2.176470588235294
+Execute Time: 2102
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Dec 14 22:21:28 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Dec 14 22:21:28 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/ZVRB-C.jar ./ZVRB-C/ecoli/config4s0.txt Executing Algorithm.
+Opening the file: ../datasets/ecoli/ecoli-10-5tra.dat.
+ >> processing: a1, a2, a3, a4, a5, a6, a7
+   > inputs attribute considered: a1.
+   > inputs attribute considered: a2.
+   > inputs attribute considered: a3.
+   > inputs attribute considered: a4.
+   > inputs attribute considered: a5.
+   > inputs attribute considered: a6.
+   > inputs attribute considered: a7.
+ >> processing:  class
+   > outputs attribute considered: class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 302
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of rules:20
+
+Number of features:2.9000000000000004
+
+Opening the file: ../datasets/ecoli/ecoli-10-5tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 302
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/ecoli/ecoli-10-5tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 34
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Training accuracy: 0.9304635761589404
+Test accuracy: 0.8823529411764706
+m_Optimizations = 2
+m_Seed = 1286082570
+m_Folds = 3
+m_MinNo = 2.0
+Number of fried rules:1.9411764705882353
+Execute Time: 1998
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Dec 14 22:21:30 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Dec 14 22:21:30 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/ZVRB-C.jar ./ZVRB-C/ecoli/config5s0.txt Executing Algorithm.
+Opening the file: ../datasets/ecoli/ecoli-10-6tra.dat.
+ >> processing: a1, a2, a3, a4, a5, a6, a7
+   > inputs attribute considered: a1.
+   > inputs attribute considered: a2.
+   > inputs attribute considered: a3.
+   > inputs attribute considered: a4.
+   > inputs attribute considered: a5.
+   > inputs attribute considered: a6.
+   > inputs attribute considered: a7.
+ >> processing:  class
+   > outputs attribute considered: class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 302
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of rules:16
+
+Number of features:2.8125
+
+Opening the file: ../datasets/ecoli/ecoli-10-6tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 302
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/ecoli/ecoli-10-6tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 34
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Training accuracy: 0.9072847682119205
+Test accuracy: 0.7941176470588235
+m_Optimizations = 2
+m_Seed = 1286082570
+m_Folds = 3
+m_MinNo = 2.0
+Number of fried rules:1.7352941176470589
+Execute Time: 1348
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Dec 14 22:21:32 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Dec 14 22:21:32 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/ZVRB-C.jar ./ZVRB-C/ecoli/config6s0.txt Executing Algorithm.
+Opening the file: ../datasets/ecoli/ecoli-10-7tra.dat.
+ >> processing: a1, a2, a3, a4, a5, a6, a7
+   > inputs attribute considered: a1.
+   > inputs attribute considered: a2.
+   > inputs attribute considered: a3.
+   > inputs attribute considered: a4.
+   > inputs attribute considered: a5.
+   > inputs attribute considered: a6.
+   > inputs attribute considered: a7.
+ >> processing:  class
+   > outputs attribute considered: class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 303
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of rules:15
+
+Number of features:2.7333333333333334
+
+Opening the file: ../datasets/ecoli/ecoli-10-7tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 303
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/ecoli/ecoli-10-7tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 33
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Training accuracy: 0.900990099009901
+Test accuracy: 0.9393939393939394
+m_Optimizations = 2
+m_Seed = 1286082570
+m_Folds = 3
+m_MinNo = 2.0
+Number of fried rules:2.212121212121212
+Execute Time: 1848
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Dec 14 22:21:34 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Dec 14 22:21:34 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/ZVRB-C.jar ./ZVRB-C/ecoli/config7s0.txt Executing Algorithm.
+Opening the file: ../datasets/ecoli/ecoli-10-8tra.dat.
+ >> processing: a1, a2, a3, a4, a5, a6, a7
+   > inputs attribute considered: a1.
+   > inputs attribute considered: a2.
+   > inputs attribute considered: a3.
+   > inputs attribute considered: a4.
+   > inputs attribute considered: a5.
+   > inputs attribute considered: a6.
+   > inputs attribute considered: a7.
+ >> processing:  class
+   > outputs attribute considered: class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 303
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of rules:17
+
+Number of features:2.88235294117647
+
+Opening the file: ../datasets/ecoli/ecoli-10-8tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 303
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/ecoli/ecoli-10-8tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 33
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Training accuracy: 0.9240924092409241
+Test accuracy: 0.8181818181818182
+m_Optimizations = 2
+m_Seed = 1286082570
+m_Folds = 3
+m_MinNo = 2.0
+Number of fried rules:2.272727272727273
+Execute Time: 981
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Dec 14 22:21:35 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Dec 14 22:21:35 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/ZVRB-C.jar ./ZVRB-C/ecoli/config8s0.txt Executing Algorithm.
+Opening the file: ../datasets/ecoli/ecoli-10-9tra.dat.
+ >> processing: a1, a2, a3, a4, a5, a6, a7
+   > inputs attribute considered: a1.
+   > inputs attribute considered: a2.
+   > inputs attribute considered: a3.
+   > inputs attribute considered: a4.
+   > inputs attribute considered: a5.
+   > inputs attribute considered: a6.
+   > inputs attribute considered: a7.
+ >> processing:  class
+   > outputs attribute considered: class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 303
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of rules:16
+
+Number of features:2.75
+
+Opening the file: ../datasets/ecoli/ecoli-10-9tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 303
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/ecoli/ecoli-10-9tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 33
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Training accuracy: 0.900990099009901
+Test accuracy: 0.9090909090909091
+m_Optimizations = 2
+m_Seed = 1286082570
+m_Folds = 3
+m_MinNo = 2.0
+Number of fried rules:1.9393939393939394
+Execute Time: 1748
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Dec 14 22:21:37 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Dec 14 22:21:37 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/ZVRB-C.jar ./ZVRB-C/ecoli/config9s0.txt Executing Algorithm.
+Opening the file: ../datasets/ecoli/ecoli-10-10tra.dat.
+ >> processing: a1, a2, a3, a4, a5, a6, a7
+   > inputs attribute considered: a1.
+   > inputs attribute considered: a2.
+   > inputs attribute considered: a3.
+   > inputs attribute considered: a4.
+   > inputs attribute considered: a5.
+   > inputs attribute considered: a6.
+   > inputs attribute considered: a7.
+ >> processing:  class
+   > outputs attribute considered: class.
+ >> Size of the output is: 1
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 303
+
+  > Finishing the statistics: (isTrain)true, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Number of rules:16
+
+Number of features:2.6875
+
+Opening the file: ../datasets/ecoli/ecoli-10-10tra.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 303
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Opening the file: ../datasets/ecoli/ecoli-10-10tst.dat.
+ >> Size of the output is: 0
+ >> Processing inputs and outputs
+ The number of output attributes is: 1
+
+
+  > Reading the data 
+    > Number of instances read: 33
+
+  > Finishing the statistics: (isTrain)false, (# out attributes)1
+  >> File LOADED CORRECTLY!!
+Training accuracy: 0.8877887788778878
+Test accuracy: 0.8181818181818182
+m_Optimizations = 2
+m_Seed = 1286082570
+m_Folds = 3
+m_MinNo = 2.0
+Number of fried rules:1.606060606060606
+Execute Time: 1861
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Dec 14 22:21:38 CET 2023
+
+*** BEGIN OF EXPERIMENT Thu Dec 14 22:21:38 CET 2023
+
+
+Executing: java -Xmx512000000  -jar   ../exe/ClasifTest_Summary.jar ./Vis-Clas-Check/TSTZVRB-C/config0s0.txt Reading configuration file: ./Vis-Clas-Check/TSTZVRB-C/config0s0.txt
+/Users/yangyangxue/document/papers/Zreliabilitylimit/Application/ZVRB/scripts/./Vis-Clas-Check/TSTZVRB-C/config0s0.txt
+./Vis-Clas-Check/TSTZVRB-C
+Aux : .
+Aux : Vis-Clas-Check
+Aux : TSTZVRB-C
+Aux : config0s0.txt
+Descripcion algoritmo = Summary
+Procesando inputdata["../results/ZVRB-C.ecoli/result0s0.tst""../results/ZVRB-C.ecoli/result1s0.tst""../results/ZVRB-C.ecoli/result2s0.tst""../results/ZVRB-C.ecoli/result3s0.tst""../results/ZVRB-C.ecoli/result4s0.tst""../results/ZVRB-C.ecoli/result5s0.tst""../results/ZVRB-C.ecoli/result6s0.tst""../results/ZVRB-C.ecoli/result7s0.tst""../results/ZVRB-C.ecoli/result8s0.tst""../results/ZVRB-C.ecoli/result9s0.tst""../results/ZVRB-C.ecoli/result0s0.tra""../results/ZVRB-C.ecoli/result1s0.tra""../results/ZVRB-C.ecoli/result2s0.tra""../results/ZVRB-C.ecoli/result3s0.tra""../results/ZVRB-C.ecoli/result4s0.tra""../results/ZVRB-C.ecoli/result5s0.tra""../results/ZVRB-C.ecoli/result6s0.tra""../results/ZVRB-C.ecoli/result7s0.tra""../results/ZVRB-C.ecoli/result8s0.tra""../results/ZVRB-C.ecoli/result9s0.tra"]
+Procesando argumento["../results/Vis-Clas-Check/TSTZVRB-C/result0s0.stat"]
+Nombre resultados train [../results/Vis-Clas-Check/TSTZVRB-C/result0s0.stat]
+Nombre resultados test [result.log]
+Ejecutando algoritmo StatCheckCL
+Procesing data file [../results/ZVRB-C.ecoli/result0s0.tst]
+Procesing data file [../results/ZVRB-C.ecoli/result1s0.tst]
+Procesing data file [../results/ZVRB-C.ecoli/result2s0.tst]
+Procesing data file [../results/ZVRB-C.ecoli/result3s0.tst]
+Procesing data file [../results/ZVRB-C.ecoli/result4s0.tst]
+Procesing data file [../results/ZVRB-C.ecoli/result5s0.tst]
+Procesing data file [../results/ZVRB-C.ecoli/result6s0.tst]
+Procesing data file [../results/ZVRB-C.ecoli/result7s0.tst]
+Procesing data file [../results/ZVRB-C.ecoli/result8s0.tst]
+Procesing data file [../results/ZVRB-C.ecoli/result9s0.tst]
+Procesing data file [../results/ZVRB-C.ecoli/result0s0.tra]
+Procesing data file [../results/ZVRB-C.ecoli/result1s0.tra]
+Procesing data file [../results/ZVRB-C.ecoli/result2s0.tra]
+Procesing data file [../results/ZVRB-C.ecoli/result3s0.tra]
+Procesing data file [../results/ZVRB-C.ecoli/result4s0.tra]
+Procesing data file [../results/ZVRB-C.ecoli/result5s0.tra]
+Procesing data file [../results/ZVRB-C.ecoli/result6s0.tra]
+Procesing data file [../results/ZVRB-C.ecoli/result7s0.tra]
+Procesing data file [../results/ZVRB-C.ecoli/result8s0.tra]
+Procesing data file [../results/ZVRB-C.ecoli/result9s0.tra]
+Results:
+Detected 1 methods
+Folds=10 
+ExitValue: 0
+
+*** END OF EXPERIMENT Thu Dec 14 22:21:39 CET 2023
+
+Experiment completed successfully
+yangyangxue@yangyangxuedeMacBook-Air scripts % 
