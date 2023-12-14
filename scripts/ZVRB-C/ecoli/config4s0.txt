@@ -1,0 +1,12 @@
+algorithm = ZVRB
+inputData = "../datasets/ecoli/ecoli-10-5tra.dat" "../datasets/ecoli/ecoli-10-5tra.dat" "../datasets/ecoli/ecoli-10-5tst.dat" 
+outputData = "../results/ZVRB-C.ecoli/result4s0.tra" "../results/ZVRB-C.ecoli/result4s0.tst" "../results/ZVRB-C.ecoli/result4s0e0.txt"  
+
+seed = 1286082570
+Number of Optimizations = 2
+Number of folds = 3
+Generation times = 100
+NP = 100
+F = 0.8
+CR = 0.5
+alpha = 0.18

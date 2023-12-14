@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<execution>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/ZVRB-C.jar</executableFile>
+    <scriptFile>./ZVRB-C/ecoli/config0s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/ZVRB-C.jar</executableFile>
+    <scriptFile>./ZVRB-C/ecoli/config1s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/ZVRB-C.jar</executableFile>
+    <scriptFile>./ZVRB-C/ecoli/config2s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/ZVRB-C.jar</executableFile>
+    <scriptFile>./ZVRB-C/ecoli/config3s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/ZVRB-C.jar</executableFile>
+    <scriptFile>./ZVRB-C/ecoli/config4s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/ZVRB-C.jar</executableFile>
+    <scriptFile>./ZVRB-C/ecoli/config5s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/ZVRB-C.jar</executableFile>
+    <scriptFile>./ZVRB-C/ecoli/config6s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/ZVRB-C.jar</executableFile>
+    <scriptFile>./ZVRB-C/ecoli/config7s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/ZVRB-C.jar</executableFile>
+    <scriptFile>./ZVRB-C/ecoli/config8s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/ZVRB-C.jar</executableFile>
+    <scriptFile>./ZVRB-C/ecoli/config9s0.txt</scriptFile>
+  </sentence>
+  <sentence>
+    <command>java</command>
+    <option>-Xmx512000000</option>
+    <option />
+    <option>-jar</option>
+    <option />
+    <option />
+    <executableFile>../exe/ClasifTest_Summary.jar</executableFile>
+    <scriptFile>./Vis-Clas-Check/TSTZVRB-C/config0s0.txt</scriptFile>
+  </sentence>
+</execution>
+

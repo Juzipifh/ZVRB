@@ -1,0 +1,255 @@
+FURIA rules:
+===========
+
+ => class=cp with 1.0 
+class=im with 0.0 
+class=imS with 0.0 
+class=imL with 0.0 
+class=imU with 0.0 
+class=om with 0.0 
+class=omL with 0.0 
+class=pp with 0.0 
+(a6 <= 52(-> 62)) and (a1 <= 51(-> 57)) => class=cp with 0.9954782654672825 
+class=im with 0.004676065225799717 
+class=imS with 0.009175565996103932 
+class=imL with 0.012402247943422907 
+class=imU with 0.0036083400809745546 
+class=om with 0.007227872825697167 
+class=omL with 0.02592778445276852 
+class=pp with 0.03048907126753718 
+(a6 <= 53(-> 61)) and (a1 <= 61(-> 63)) => class=cp with 0.9879746443099772 
+class=im with 0.007222999852128769 
+class=imS with 0.03503252030185386 
+class=imL with 0.004085632203461007 
+class=imU with 0.01875319221576348 
+class=om with 0.016153588777787928 
+class=omL with 0.014716006973814671 
+class=pp with 0.028417027134429278 
+ => class=cp with 0.9831090235284959 
+class=im with 0.023256311097525288 
+class=imS with 0.019090922311056066 
+class=imL with 0.006160096631152079 
+class=imU with 0.007097200065420775 
+class=om with 0.011324638366957317 
+class=omL with 0.006187815083883386 
+class=pp with 0.0019077238847770087 
+ => class=cp with 0.0057016068697058764 
+class=im with 0.9969309550481771 
+class=imS with 0.03369408910714898 
+class=imL with 0.013662688908830732 
+class=imU with 0.0031219153896945573 
+class=om with 0.022520870058277707 
+class=omL with 0.007098469967988736 
+class=pp with 0.007970557795929034 
+ => class=cp with 0.01423550445950481 
+class=im with 0.9748352092702579 
+class=imS with 0.008691588332732281 
+class=imL with 0.020265418292214562 
+class=imU with 0.0028175969537422014 
+class=om with 0.009493885646115762 
+class=omL with 0.012138335379574297 
+class=pp with 0.0029445539368578265 
+ => class=cp with 0.022856472886008217 
+class=im with 0.9900051093479901 
+class=imS with 0.002609320922707381 
+class=imL with 0.013937005046881949 
+class=imU with 0.015149968910406791 
+class=om with 0.005963318319894481 
+class=omL with 0.0070384892966257225 
+class=pp with 0.0028149756564600503 
+ => class=cp with 0.0 
+class=im with 0.0 
+class=imS with 0.0 
+class=imL with 0.0 
+class=imU with 1.0 
+class=om with 0.0 
+class=omL with 0.0 
+class=pp with 0.0 
+(a7 >= 62(-> 56)) => class=cp with 0.02682126581955229 
+class=im with 0.9998565237395362 
+class=imS with 0.027211025789717114 
+class=imL with 0.005218846076305357 
+class=imU with 0.028970075953950507 
+class=om with 0.03167747135856799 
+class=omL with 0.010091496521763778 
+class=pp with 0.023641544689124043 
+(a5 >= 72(-> 58)) => class=cp with 0.0184169301990166 
+class=im with 0.004223212297571402 
+class=imS with 0.017568432539603055 
+class=imL with 0.006115357963699865 
+class=imU with 0.011793775716766097 
+class=om with 0.9624688819740602 
+class=omL with 0.0074574735249544055 
+class=pp with 0.009937578947347377 
+(a5 >= 65(-> 63)) => class=cp with 0.016231568981204692 
+class=im with 0.005011378345972317 
+class=imS with 0.022648277332873272 
+class=imL with 0.02531147603912487 
+class=imU with 0.013520238799209602 
+class=om with 0.9943635335533186 
+class=omL with 0.02025902601700874 
+class=pp with 0.016686380528279015 
+ => class=cp with 0.0 
+class=im with 0.0 
+class=imS with 0.0 
+class=imL with 0.0 
+class=imU with 0.0 
+class=om with 0.0 
+class=omL with 1.0 
+class=pp with 0.0 
+(a2 >= 59(-> 58)) => class=cp with 0.02424467426270201 
+class=im with 0.031955669811989974 
+class=imS with 0.020571595391730542 
+class=imL with 0.00608890565884692 
+class=imU with 0.0013043846973711387 
+class=om with 0.015747579021918076 
+class=omL with 0.023145655356829754 
+class=pp with 0.9947145782515684 
+(a2 >= 57(-> 53)) => class=cp with 0.004380171076380517 
+class=im with 0.0012563116858215172 
+class=imS with 0.032482465435386604 
+class=imL with 0.01067861081098373 
+class=imU with 0.006458212045198267 
+class=om with 0.0013073122872293563 
+class=omL with 0.012041563086545618 
+class=pp with 0.9804250653374325 
+ => class=cp with 0.0 
+class=im with 0.0 
+class=imS with 0.0 
+class=imL with 0.0 
+class=imU with 0.0 
+class=om with 0.0 
+class=omL with 0.0 
+class=pp with 1.0 
+
+
+
+Reglas Buenas
+Inside m_Ruleset
+(a6 <= 38(-> 39)) and (a1 <= 54(-> 56)) and (a5 <= 49(-> 51)) => class=cp with 1.0 
+class=im with 0.0 
+class=imS with 0.0 
+class=imL with 0.0 
+class=imU with 0.0 
+class=om with 0.0 
+class=omL with 0.0 
+class=pp with 0.0 
+(a6 <= 52(-> 62)) and (a1 <= 51(-> 57)) and (a2 <= 38(-> 39)) => class=cp with 1.0 
+class=im with 0.0 
+class=imS with 0.0 
+class=imL with 0.0 
+class=imU with 0.0 
+class=om with 0.0 
+class=omL with 0.0 
+class=pp with 0.0 
+(a6 <= 53(-> 61)) and (a1 <= 61(-> 63)) and (a2 <= 58(-> 59)) and (a6 >= 14(-> 9)) => class=cp with 0.9852730006100943 
+class=im with 0.0014393580301583207 
+class=imS with 0.022348798834891354 
+class=imL with 0.011123813853536647 
+class=imU with 0.012767468262452394 
+class=om with 0.016657438299035272 
+class=omL with 0.02449908800952033 
+class=pp with 0.01672093403735742 
+(a6 <= 38(-> 45)) and (a2 <= 55(-> 57)) and (a7 <= 48(-> 74)) and (a1 >= 35(-> 34)) => class=cp with 0.9831090235284959 
+class=im with 0.023256311097525288 
+class=imS with 0.019090922311056066 
+class=imL with 0.006160096631152079 
+class=imU with 0.007097200065420775 
+class=om with 0.011324638366957317 
+class=omL with 0.006187815083883386 
+class=pp with 0.0019077238847770087 
+(a6 >= 61(-> 59)) and (a1 <= 54(-> 58)) => class=cp with 0.0057016068697058764 
+class=im with 0.9969309550481771 
+class=imS with 0.03369408910714898 
+class=imL with 0.013662688908830732 
+class=imU with 0.0031219153896945573 
+class=om with 0.022520870058277707 
+class=omL with 0.007098469967988736 
+class=pp with 0.007970557795929034 
+(a6 >= 78(-> 77)) and (a1 <= 74(-> 77)) => class=cp with 0.01423550445950481 
+class=im with 0.9748352092702579 
+class=imS with 0.008691588332732281 
+class=imL with 0.020265418292214562 
+class=imU with 0.0028175969537422014 
+class=om with 0.009493885646115762 
+class=omL with 0.012138335379574297 
+class=pp with 0.0029445539368578265 
+(a7 >= 69(-> 68)) and (a6 <= 72(-> 73)) => class=cp with 0.022856472886008217 
+class=im with 0.9900051093479901 
+class=imS with 0.002609320922707381 
+class=imL with 0.013937005046881949 
+class=imU with 0.015149968910406791 
+class=om with 0.005963318319894481 
+class=omL with 0.0070384892966257225 
+class=pp with 0.0028149756564600503 
+(a1 >= 75(-> 74)) and (a6 >= 73(-> 72)) => class=cp with 0.0 
+class=im with 0.0 
+class=imS with 0.0 
+class=imL with 0.0 
+class=imU with 1.0 
+class=om with 0.0 
+class=omL with 0.0 
+class=pp with 0.0 
+(a7 >= 62(-> 56)) and (a1 >= 58(-> 51)) and (a7 <= 78(-> 79)) and (a5 <= 64(-> 65)) => class=cp with 0.00715678594817434 
+class=im with 0.03057990855512127 
+class=imS with 0.014619353737577303 
+class=imL with 0.009759335304686324 
+class=imU with 0.9999499607461935 
+class=om with 0.030559165751080863 
+class=omL with 0.023309212637769645 
+class=pp with 0.031343853441176246 
+(a5 >= 72(-> 58)) and (a2 >= 68(-> 67)) => class=cp with 0.0 
+class=im with 0.0 
+class=imS with 0.0 
+class=imL with 0.0 
+class=imU with 0.0 
+class=om with 1.0 
+class=omL with 0.0 
+class=pp with 0.0 
+(a5 >= 65(-> 63)) and (a6 <= 54(-> 58)) and (a2 >= 57(-> 52)) => class=cp with 0.0 
+class=im with 0.0 
+class=imS with 0.0 
+class=imL with 0.0 
+class=imU with 0.0 
+class=om with 1.0 
+class=omL with 0.0 
+class=pp with 0.0 
+(a3 <= 1(-> 48)) and (a1 >= 66(-> 49)) => class=cp with 0.0 
+class=im with 0.0 
+class=imS with 0.0 
+class=imL with 0.0 
+class=imU with 0.0 
+class=om with 0.0 
+class=omL with 1.0 
+class=pp with 0.0 
+(a2 >= 59(-> 58)) and (a5 <= 47(-> 51)) and (a6 <= 65(-> 71)) => class=cp with 0.0 
+class=im with 0.0 
+class=imS with 0.0 
+class=imL with 0.0 
+class=imU with 0.0 
+class=om with 0.0 
+class=omL with 0.0 
+class=pp with 1.0 
+(a2 >= 57(-> 53)) and (a6 <= 52(-> 53)) and (a6 >= 48(-> 47)) => class=cp with 0.0 
+class=im with 0.0 
+class=imS with 0.0 
+class=imL with 0.0 
+class=imU with 0.0 
+class=om with 0.0 
+class=omL with 0.0 
+class=pp with 1.0 
+(a1 >= 63(-> 61)) and (a5 <= 49(-> 53)) and (a6 <= 57(-> 59)) and (a5 >= 42(-> 36)) => class=cp with 0.0 
+class=im with 0.0 
+class=imS with 0.0 
+class=imL with 0.0 
+class=imU with 0.0 
+class=om with 0.0 
+class=omL with 0.0 
+class=pp with 1.0 
+
+Number of Rules : 15
+
+
+
+
+REGLAS = 15
